@@ -1,5 +1,3 @@
-// package RecursionCodeforces;
-
 import java.util.Scanner;
 
 public class calcSum12N {
